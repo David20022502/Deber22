@@ -1,0 +1,3 @@
+
+Los digitos en el vector invertido:
+{6, 5, 4, 3, 2, 1, 

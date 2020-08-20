@@ -1,0 +1,4 @@
+Ingrese la cantidad de dinero del mes de 1 : 12
+Ingrese la cantidad de dinero del mes de 2 : 5
+Ingrese la cantidad de dinero del mes de 3 : 6
+Ingrese la cantidad de dinero del mes de 4 : 900
